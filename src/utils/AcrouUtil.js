@@ -162,7 +162,7 @@ export function formatFileSize(bytes) {
   } else if (bytes == 1) {
     bytes = bytes + " byte";
   } else {
-    bytes = "";
+    bytes = "文件夹";
   }
   return bytes;
 }
