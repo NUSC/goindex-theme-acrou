@@ -117,7 +117,7 @@ audio: {
 
 ## Change log
 
-### v2.0.8
+### v2.1.2
 
 - Fix image file actions does not work [#100](https://github.com/NUSC/goindex-theme-acrou/issues/100)
 - Fix misjudged file to image format [#88](https://github.com/NUSC/goindex-theme-acrou/issues/88)
