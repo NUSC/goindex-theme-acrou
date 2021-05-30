@@ -113,7 +113,7 @@ audio: {
 
 ## 更新日志
 
-### v2.1.5
+### v2.1.9
 
 - 修复图片文件操作列不可用问题 [#100](https://github.com/NUSC/goindex-theme-acrou/issues/100)
 - 修复错误判断图片问题 [#88](https://github.com/NUSC/goindex-theme-acrou/issues/88)
